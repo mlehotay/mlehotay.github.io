@@ -14,7 +14,7 @@ Places to go from here:
 
 From long ago:
 
-* [Wayback Machine](https://web.archive.org/web/20050419172530/http://michael.lehotay.com/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=15993867,15499384,12758148,11825885,11308020&dopt=DocSum)
+* [Wayback Machine](https://web.archive.org/web/20050419172530/http://michael.lehotay.com/)
 * [NetHack patches](https://bilious.alt.org/?search&searchbar=lehotay)
 * [rogue clone](http://rogueclone.sourceforge.net/)
