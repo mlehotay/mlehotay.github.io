@@ -2,7 +2,7 @@ Hello! Thanks for visiting! 😃
 
 
 
-Places to go from here:
+Places to go from here
 
 * [Blog](https://mlehotay.github.io/blog/)
 * [LinkedIn](https://www.linkedin.com/in/mlehotay/)
@@ -12,9 +12,9 @@ Places to go from here:
 
 
 
-From long ago:
+From long ago
 
 * [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=15993867,15499384,12758148,11825885,11308020&dopt=DocSum)
+* [rogue clone](http://rogueclone.sourceforge.net/)
 * [Wayback Machine](https://web.archive.org/web/20050419172530/http://michael.lehotay.com/)
 * [NetHack patches](https://bilious.alt.org/?search&searchbar=lehotay)
-* [rogue clone](http://rogueclone.sourceforge.net/)
