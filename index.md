@@ -12,6 +12,14 @@ Places to go from here
 
 
 
+Web Apps
+
+- [Broccoli Recommender](http://broccoli.floatingeye.net/)
+- [PokePredictor](http://pokepredictor.floatingeye.net/)
+- [Abalone Calculator](http://abalone.floatingeye.net/)
+
+
+
 From long ago
 
 * [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=15993867,15499384,12758148,11825885,11308020&dopt=DocSum)
