@@ -12,7 +12,7 @@ Places to go from here
 
 
 
-Web Apps
+Web apps
 
 - [Broccoli Recommender](http://broccoli.floatingeye.net/)
 - [PokePredictor](http://pokepredictor.floatingeye.net/)
