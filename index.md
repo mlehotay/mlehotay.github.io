@@ -1,5 +1,7 @@
-Hello! Thanks for visiting! 😃
+Hello! Thanks for visiting! 😃  
 
+I'm looking for a data science job in Toronto.
+Here's [my resume](resume-mlehotay-2020-03-12.pdf).
 
 
 Places to go from here
