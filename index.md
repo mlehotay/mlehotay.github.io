@@ -1,8 +1,5 @@
 Hello! Thanks for visiting! 😃  
 
-I'm looking for a data science job in Toronto.
-Here's [my resume](mlehotay-resume.pdf).
-
 Places to go from here
 
 * [Blog](https://mlehotay.github.io/blog/)
