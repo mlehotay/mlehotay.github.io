@@ -2,19 +2,10 @@ Hello! Thanks for visiting! 😃
 
 Places to go from here
 
-* [Blog](https://mlehotay.github.io/blog/)
 * [LinkedIn](https://www.linkedin.com/in/mlehotay/)
 * [GitHub](https://github.com/mlehotay)
 * [Strava](https://www.strava.com/athletes/mlehotay)
 * [Floating Eye](http://www.floatingeye.net/)
-
-
-
-Web apps
-
-- [Broccoli Recommender](http://broccoli.floatingeye.net/)
-- [PokePredictor](http://pokepredictor.floatingeye.net/)
-- [Abalone Calculator](http://abalone.floatingeye.net/)
 
 
 
