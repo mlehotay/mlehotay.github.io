@@ -18,4 +18,4 @@ From long ago:
 
 
 
-This is my [resume](mlehotay-resume.pdf).
+Here's [my resume](mlehotay-resume.pdf).
