@@ -15,3 +15,7 @@ From long ago
 * [rogue clone](http://rogueclone.sourceforge.net/)
 * [NetHack patches](https://bilious.alt.org/?search&searchbar=lehotay)
 * [Wayback Machine](https://web.archive.org/web/20050419172530/http://michael.lehotay.com/)
+
+
+
+Here's [my resume](mlehotay-resume.pdf)
