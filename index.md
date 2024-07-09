@@ -5,7 +5,8 @@ Places to go from here:
 * [LinkedIn](https://www.linkedin.com/in/mlehotay/)
 * [GitHub](https://github.com/mlehotay)
 * [Strava](https://www.strava.com/athletes/mlehotay)
-* [Floating Eye](http://www.floatingeye.net/)
+* [Floating Eye](https://www.floatingeye.net/)
+* [Potspoon Kitchens](https://potspoon.floatingeye.net/)
 
 
 
