@@ -7,7 +7,7 @@ description: Michael Lehotay — Floating Eye Software, software quality, resear
 # Michael Lehotay
 
 I’m a medical device software quality engineer, researcher, and open-source
-developer. Floating Eye Software is the home for my current software projects,
+developer. [Floating Eye Software](https://github.com/Floating-Eye-Software/) is the home for my current software projects,
 websites, and experiments.
 
 ## Profiles
@@ -22,22 +22,24 @@ websites, and experiments.
 
 ### Projects
 
-- [pancakes.ca](https://www.pancakes.ca/) — public site
+- [pancakes.ca](https://www.pancakes.ca/) —  humane life platform for rituals, care, service exchange, and community governance  
   · [pancakes.love](https://pancakes.love/)
   · [docs](https://docs.pancakes.ca/)
   · [repo](https://github.com/Floating-Eye-Software/pancakes)
-- [Red Witch](https://www.redwitch.ca/) — public site
+- [Red Witch](https://www.redwitch.ca/) — privacy-first menstrual and body tracking built around local-first data ownership  
   · [docs](https://docs.redwitch.ca/)
   · [repo](https://github.com/Floating-Eye-Software/redwitch)
-- [Pitchfork](https://github.com/Floating-Eye-Software/pitchfork) — API project
-
-The [Floating Eye NetHack site](https://www.floatingeye.net/) is the public
-home for the NetHack server and its related roguelike projects.
+- [Pitchfork](https://github.com/Floating-Eye-Software/pitchfork) — an accounting substrate for symbolic economies, games, and cooperative systems
+- [FLEY QMS](https://github.com/Floating-Eye-Software/fley-qms) — a lightweight quality management system for software projects
+- [FLEY NetHack](https://www.floatingeye.net/) — public home for the Floating Eye NetHack server and its related roguelike projects  
+  · [floatingeye](https://github.com/mlehotay/NetHack)
+  · [nexus](https://github.com/mlehotay/nexus)
+  · [nle5](https://github.com/mlehotay/nle5)
 
 ## Research and writing
 
-- [Informational Experiential Realism](https://www.amazon.com/dp/1067942505)
-· [repo](https://github.com/mlehotay/ier)
+- [Informational Experiential Realism](https://www.amazon.com/dp/1067942505)  — A physicalist identity theory of experience  
+  · [repo](https://github.com/mlehotay/ier)
 
 ## From long ago
 
