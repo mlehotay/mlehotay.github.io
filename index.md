@@ -4,20 +4,16 @@ title: Michael Lehotay
 description: Michael Lehotay — software quality, research, and open-source projects.
 ---
 
-# Michael Lehotay
-
 I’m a software quality engineer, researcher, and open-source developer in
-Toronto.
-
-I work on software quality for medical devices and maintain a small collection
-of software, writing, and game projects under [Floating Eye
+Toronto. I work on software quality for medical devices and maintain a small
+collection of software, writing, and game projects under [Floating Eye
 Software](https://github.com/Floating-Eye-Software/).
 
-## Profiles
+## Profiles {#elsewhere}
 
 [GitHub](https://github.com/mlehotay) · [LinkedIn](https://www.linkedin.com/in/mlehotay/) · [ORCID](https://orcid.org/0009-0007-3624-5148) · [PhilPeople](https://philpeople.org/profiles/michael-lehotay) · [Strava](https://www.strava.com/athletes/mlehotay)
 
-## Floating Eye Software
+## Floating Eye Software {#work}
 
 Some current projects:
 
@@ -27,7 +23,7 @@ Some current projects:
 - [Pitchfork](https://github.com/Floating-Eye-Software/pitchfork) — an accounting substrate for symbolic economies, games, and cooperative systems
 - [FLEY QMS](https://github.com/Floating-Eye-Software/fley-qms) — a lightweight quality management system for software projects
 
-## Research and writing
+## Research and writing {#research}
 
 - [Informational Experiential Realism](https://nkipress.floatingeye.net/) — a physicalist identity theory of experience ([book](https://www.amazon.com/dp/1067942505), [repository](https://github.com/mlehotay/ier))
 
