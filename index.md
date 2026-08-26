@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Michael Lehotay
 description: Michael Lehotay — software quality, research, and open-source projects.
 ---
